@@ -61,7 +61,7 @@ function myFunction() {
 
 
       default:
-      text = "I have never heard of that fruit...";
+      text = "🤬";
     }
     document.getElementById("demo").innerHTML = text;
   }
